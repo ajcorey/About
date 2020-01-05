@@ -1,3 +1,5 @@
+![A picture of me](https://photos.app.goo.gl/PXGLdkVLifiw9F1H7)
+
 # **Education**
 
 **Middletown Highschool**  
