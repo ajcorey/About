@@ -1,5 +1,4 @@
-# **Education**  
-___
+# **Education**
 
 **Middletown Highschool**  
 _Graduated: June 2018_
