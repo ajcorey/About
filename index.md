@@ -1,4 +1,4 @@
-![A picture of me](testimonial.PNG "hover text")
+![A picture of me](testimonial.PNG "This is a bad picture of me at robotics")
 
 # **Education**
 
