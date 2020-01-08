@@ -1,1 +1,1 @@
-[open ajcorey.github.io/about](ajcorey.github.io/about)
+open [ajcorey.github.io/about](https://ajcorey.github.io/about/)
