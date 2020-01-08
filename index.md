@@ -1,4 +1,4 @@
-![A picture of me](SeniorPicture.jpg "Senior Picture 2018")
+![A picture of me](SeniorPicture.PNG "Senior Picture 2018")
 
 # **Education**
 
