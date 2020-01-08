@@ -1,6 +1,14 @@
-![A picture of me](about/SeniorPictureSmall.PNG "Senior Picture 2018")
+| # **Education**           | # **Work Experience** | 
+| :----                     | :----                 |
+| **Middletown Highschool**  
+_Graduated: June 2018_      | work                  |
+| **Worcester Polytechnic Institute**  
+_Expected Graduation: May 2022_  
+_Persuing:_   
+  - _Electrical Computer Engineering_  
+  - _Robotics Engineering_  |                       |
 
-# **Education**
+
 
 **Middletown Highschool**  
 _Graduated: June 2018_
