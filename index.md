@@ -1,4 +1,4 @@
-![Picture of me](seniorpic.jpg)
+![Picture of me](seniorpicsmall.jpg)
 
 # **Education**  
 **Middletown Highschool**  
