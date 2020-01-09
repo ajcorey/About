@@ -1,1 +1,2 @@
-open [ajcorey.github.io/about](https://ajcorey.github.io/about/)
+## My website
+open [ajcorey.github.io/About](https://ajcorey.github.io/About/)
