@@ -42,7 +42,7 @@ _Persuing:_
   - _Robotics Engineering_
 
 # **Personal Projects**
-- [![Picture of me](seniorpicsmall.jpg)](TideRoller.md)
+- [TideRoller](TideRoller.md)
 
 # **Martial Arts**
 - [Newport Martial Arts](https://newportmartialarts.com/)
