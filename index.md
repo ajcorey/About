@@ -1,4 +1,4 @@
-![Picture of me](seniorpicsmall.jpg)
+![Picture of me](seniorpicsmall.jpg) ![third degree blackbelt test](FB_IMG_1552827405390 (1).jpg)
 
 # **Work Experience**
 **PURVIS Systems Inc.**    _Sept 2017 – July 2018_  
