@@ -1,5 +1,30 @@
 ![Picture of me](seniorpicsmall.jpg)
 
+# **Work Experience**
+**PURVIS Systems Inc.**  
+88 Silva Ln, Middletown, RI 02842 Middletown, RI
+Rick Powers – Office: 1-401-845-8422 – Cell: 1-401-265-0388
+Electrical Technician Assistant – 16 Hr/week - hourly wage: $10.10 Sept 2017 – July 2018
+  - Prepare items for shipment
+  - Assembling project boxes both mechanically and electrically
+
+**Mokka Coffeehouse**   
+469 Thames Street, Spring Wharf, Newport, RI 02840 Newport, RI
+Trisha Mooney – Cell: 1-401-516-2532
+Cook – 10 – 20Hr/week (depending on season) – hourly wage: $12.00 Apr 2013 – Present
+  - Perform food preparation tasks such as sandwiches, soups, salads, desserts, brewing coffee, and tea.
+  - Purchase product and stock shelves.
+  - Clean food preparation equipment, work areas, counters and tables.
+
+**Newport Martial Arts**  
+800 Aquidneck Ave, Middletown, RI 02842 Middletown, RI
+Linda Haverty – Cell: 1-401-662-1509
+Instructor Nov 2014 – Present
+  - Teach martial arts to various ages and ranks.
+  - Assist with any duties needed in the facility.
+Janitor – 3 Hr/week – hourly wage: $10.10 Jan 2017 – Sept 2017
+  - Clean the Dojo.
+
 # **Education**  
 **Middletown Highschool**  
 _Graduated: June 2018_
