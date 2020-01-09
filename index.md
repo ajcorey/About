@@ -29,6 +29,8 @@ _Instructor_ - Nov 2014 – Present
 _Janitor_ – 3 Hr/week – hourly wage: $10.10 Jan 2017 – Sept 2017
   - Clean the Dojo.
 
+___
+
 # **Education**  
 **Middletown Highschool**  
 _Graduated: June 2018_
