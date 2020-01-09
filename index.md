@@ -1,3 +1,5 @@
+[Picture of me](https://github.com/ajcorey/about/blob/gh-pages/IMG_20171028_131956_2.jpg)
+
 # **Education**  
 **Middletown Highschool**  
 _Graduated: June 2018_
