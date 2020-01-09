@@ -8,6 +8,8 @@ _Electrical Technician Assistant_ – 16 Hr/week - hourly wage: $10.10
   - Prepare items for shipment
   - Assembling project boxes both mechanically and electrically
 
+___
+
 **Mokka Coffeehouse**   _Apr 2013 – Present_  
 469 Thames Street, Spring Wharf, Newport, RI 02840 Newport, RI    
 Trisha Mooney – _Cell: 1-401-516-2532_    
@@ -15,6 +17,8 @@ _Cook_ – 10 – 20Hr/week (depending on season) – hourly wage: $12.00
   - Perform food preparation tasks such as sandwiches, soups, salads, desserts, brewing coffee, and tea.
   - Purchase product and stock shelves.
   - Clean food preparation equipment, work areas, counters and tables.
+
+___
 
 **Newport Martial Arts**  
 800 Aquidneck Ave, Middletown, RI 02842 Middletown, RI  
