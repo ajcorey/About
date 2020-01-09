@@ -35,4 +35,13 @@ _Persuing:_
   - _Electrical Computer Engineering_  
   - _Robotics Engineering_
 
-[TideRoller](TideRoller.md)
+# **Personal Projects**
+- [TideRoller](TideRoller.md)
+
+# **Martial Arts**
+- [Newport Martial Arts](https://newportmartialarts.com/)
+- [Don Rodrigues Karate Academy](http://www.donrodrigueskarateacademy.com/)
+
+# **Robotics**
+- [FIRST](https://www.firstinspires.org/)
+- [Aquidneck Island Robotics](https://aquidneckislandrobotics.wildapricot.org/)
