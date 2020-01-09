@@ -1,5 +1,9 @@
 ![Picture of me](seniorpicsmall.jpg)
 
+<p align="center">
+  <img /seniorpicsmall.jpg>
+</p>
+
 # **Work Experience**
 **PURVIS Systems Inc.**    _Sept 2017 – July 2018_  
 88 Silva Ln, Middletown, RI 02842 Middletown, RI  
