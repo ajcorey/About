@@ -1,7 +1,7 @@
 ![Picture of me](seniorpicsmall.jpg)
 
 # **Work Experience**
-**PURVIS Systems Inc.**  _Sept 2017 – July 2018_
+**PURVIS Systems Inc.**    _Sept 2017 – July 2018_  
 88 Silva Ln, Middletown, RI 02842 Middletown, RI  
 Rick Powers – _Office: 1-401-845-8422 – Cell: 1-401-265-0388_  
 _Electrical Technician Assistant – 16 Hr/week - hourly wage: $10.10_  
