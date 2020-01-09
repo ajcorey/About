@@ -1,5 +1,18 @@
 ![Picture of me](seniorpicsmall.jpg)  
 
+# **Personal Projects**
+- [TideRoller](TideRoller.md)
+
+# **Education**  
+**Middletown Highschool**  
+_Graduated: June 2018_
+
+**Worcester Polytechnic Institute**  
+_Expected Graduation: May 2022_  
+_Persuing:_   
+  - _Electrical Computer Engineering_  
+  - _Robotics Engineering_
+
 # **Work Experience**
 **PURVIS Systems Inc.**    _Sept 2017 – July 2018_  
 88 Silva Ln, Middletown, RI 02842 Middletown, RI  
@@ -30,19 +43,6 @@ _Janitor_ – 3 Hr/week – hourly wage: $10.10 Jan 2017 – Sept 2017
   - Clean the Dojo.
 
 ___
-
-# **Education**  
-**Middletown Highschool**  
-_Graduated: June 2018_
-
-**Worcester Polytechnic Institute**  
-_Expected Graduation: May 2022_  
-_Persuing:_   
-  - _Electrical Computer Engineering_  
-  - _Robotics Engineering_
-
-# **Personal Projects**
-- [TideRoller](TideRoller.md)
 
 # **Martial Arts**
 - [Newport Martial Arts](https://newportmartialarts.com/)
