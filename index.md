@@ -2,6 +2,8 @@
 
 # **Personal Projects**
 - [TideRoller](TideRoller.md)
+- [Breadboard Circuits](_Add Later_)
+- [Rock-Stack Photography](_Add Later_)
 
 # **Education**  
 **Middletown Highschool**  
