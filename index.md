@@ -2,7 +2,7 @@
 
 # **Personal Projects**
 - [TideRoller](TideRoller.md)
-- [Breadboard Circuits](_Add Later_)
+- [Breadboard Circuits](BreadBoard.md)
 - [Rock-Stack Photography](_Add Later_)
 
 # **Education**  
